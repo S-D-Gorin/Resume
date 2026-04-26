@@ -1,4 +1,4 @@
-## Lead Engineer | SRE / DevOps
+# Lead Engineer | SRE / DevOps
 ### Сергей Дмитриевич Горин
 📍 Россия
 📧 s.d.gorin@gmail.com
@@ -64,6 +64,14 @@
 * поддержка SaaS-платформы с большим количеством клиентских инстансов
 * снижение MTTR за счёт автоматизации и мониторинга
 
-### [Реализованные проекты](/projects/clientbase_ru)
+### Реализованные проекты
+[Список проектов](/projects/clientbase_ru) реализованых во время работы в компании.
+
+
+---
+
+# Частная практика / Фриланс
+
+[Freelance / Outstaffing / Outsourcing](/projects/freelance_ru).
 
 
