@@ -8,7 +8,7 @@ Lead Engineer / SRE / DevOps with experience developing production infrastructur
 
 ---
 
-## Key Skills
+## Hard Skills
 
 * Linux, Docker, Docker Compose, NGINX, Apache
 * CI/CD, release automation, S3, Bash, Python
