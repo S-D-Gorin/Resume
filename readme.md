@@ -22,6 +22,16 @@ Production infrastructure, release automation, monitoring, incident response, an
 * Monitoring, alerting, incident response, and MTTR reduction
 * Docker-based environments for legacy platforms and internal services
 * DNS, reverse proxy, SSL, access control, and internal platform tooling
+* Software development (Go, PHP, Python, Django, Flask, FastAPI, REST API, React)
+---
+
+## Основные направления 
+
+* Производственная инфраструктура Linux и работа в режиме 24/7
+* Конвейеры CI/CD, автоматизация выпуска и надежность развертывания
+* Мониторинг, оповещение, реагирование на инциденты и сокращение MTR
+* Среды на базе Docker для платформ и внутренних служб
+* Разработка ПО (Go, PHP, Python, Django, Flask, FastAPI, REST API, React)
 
 ---
 
