@@ -51,7 +51,9 @@ Lead Engineer / SRE / DevOps with experience developing production infrastructur
 
 ## Private Practice / Freelance
 
-[Freelance / Outstaffing / Outsourcing](projects/freelance_en.md).
+* [Freelance / Outstaffing / Outsourcing](projects/freelance_en.md).
+* [CMS platform/Telegram bot for creating photo and audio guides](projects/guide_bot_en.md)
+
 
 ---
 
