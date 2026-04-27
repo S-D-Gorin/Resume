@@ -2,7 +2,9 @@
 
 ###  Developer | Lead Engineer | SRE / DevOps 
 
-Production infrastructure, release automation, monitoring, incident response, and legacy platform reliability.
+Проектирую и развиваю программные решения и инфраструктуру, повышаю надёжность сервисов, устраняю риски отказов и внедряю автоматизацию.
+
+Design and develop software solutions and infrastructure, improve system reliability, reduce operational risks, and automate key processes.
 
 ---
 
