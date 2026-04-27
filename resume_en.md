@@ -53,7 +53,7 @@ Lead Engineer / SRE / DevOps with experience developing production infrastructur
 
 * [Freelance / Outstaffing / Outsourcing](projects/freelance_en.md).
 * [CMS platform/Telegram bot for creating photo and audio guides](projects/guide_bot_en.md)
-
+* [Antispam Telegram bot](projects/sprotectbots_en.md)
 
 ---
 

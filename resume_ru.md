@@ -53,7 +53,7 @@ Lead Engineer / SRE / DevOps с опытом развития production-инф�
 
 * [Freelance / Outstaffing / Outsourcing](projects/freelance_ru.md).
 * [CMS-платформа/Telegram-бот для создания фото и аудиогидов](projects/guide_bot_ru.md)
-
+* [Антиспам бот в Telegram](projects/sprotectbots_ru.md)
 
 ---
 
